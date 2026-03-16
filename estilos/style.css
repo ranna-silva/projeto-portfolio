@@ -26,8 +26,8 @@ body.escuro {
    --fundo-principal: #222222;
   --texto: #e0e0e0e0;
   --texto-inverso: #333333;
-  --detaque: #1622a5;
-  --destaque-inverso: #ff5522;
+  --detaque: #1e2cc3;
+  --destaque-inverso: #f1734d;
   --fundo-card: #444444;
 }
 
@@ -248,7 +248,6 @@ article h2 {
 
 #projeto-container .foto {
   width: 100%;
-  aspect-ratio: 16/9;
   object-fit: cover;
   overflow: hidden;
   border-radius: 8px;
